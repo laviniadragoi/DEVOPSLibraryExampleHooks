@@ -1,0 +1,17 @@
+Step1. Create repository to github.com
+Step2. clone the repository locally on Mac
+From CMD (terminal)
+git clone git@github.com:laviniadragoi/DEVOPSLibraryExampleHooks.git
+Step3. cd DEVOPSLibraryExampleHooks 
+Step4. touch test.html
+vim test.html
+
+<sample>I don't contain any problems... yet</sample
+:x
+
+Step5. git status
+
+Step6. git add .
+Step7. git commit -m "add file test.html"
+Step8. git push origin master
+
